@@ -1,0 +1,1 @@
+Un programme graphique qui vous permet de trouver des photos d'un plat que vous recherchez.
